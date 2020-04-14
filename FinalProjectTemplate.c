@@ -2,7 +2,7 @@
 /////////////////////////
 /* 
 Team xx (please insert your team number instead of xx)
-Team member 1 "Name" | "Percentage of Contribution to The Project"
+Team member 1 "Carson" | "Percentage of Contribution to The Project"
 Team member 2 "Name" | "Percentage of Contribution to The Project"
 Team member 3 "Name" | "Percentage of Contribution to The Project"
 Team member 4 "Name" | "Percentage of Contribution to The Project"
@@ -25,9 +25,12 @@ Team member 4 "Name" | "Percentage of Contribution to The Project"
 /////////////////////////////////
 
 int main(){
+	read file into 2d array;
 	
-	
-	
+	print array[i];
+	time limit for typing input;
+	if not typed in time/ incorrectly exit;	
+	print array[i+1];
 	
 	
 	
