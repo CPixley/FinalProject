@@ -11,6 +11,7 @@ Team member 4 "Name" | "Percentage of Contribution to The Project"
 
 ////////////////////
 #include<stdio.h>//
+#include <sdtlib.h>
 //add more here////
 
 //////////////////////
@@ -29,7 +30,7 @@ int main(){
 	
 	print array[i];
 	time limit for typing input;
-	if not typed in time/ incorrectly exit;	
+	spawn in new words for ammount of time it took user;	
 	print array[i+1];
 	
 	
